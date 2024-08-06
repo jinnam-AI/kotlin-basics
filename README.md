@@ -1,10 +1,5 @@
 # basic kotlin
 
-Created By: 김진남
-Created: 2024년 8월 5일 오전 11:17
-Last Edited Time: 2024년 8월 6일 오후 2:45
-Last Edited By: 김진남
-카테고리: kotlin
 
 참고
 
