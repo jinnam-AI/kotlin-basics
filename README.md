@@ -24,3 +24,9 @@
 [Class](docs/Class.md)
 
 [Lambda](docs/Lambda.md)
+
+[Data Class](docs/Data%20Class.md)
+
+[Companion Object](docs/Companion Object.md)
+
+[Object](docs/Object.md)
