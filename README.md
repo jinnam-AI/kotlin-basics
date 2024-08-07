@@ -27,6 +27,6 @@
 
 [Data Class](docs/Data%20Class.md)
 
-[Companion Object](docs/Companion Object.md)
+[Companion Object](docs/Companion%20Object.md)
 
 [Object](docs/Object.md)
